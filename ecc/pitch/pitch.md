@@ -54,6 +54,10 @@ Mostrar a dor real da Betha e de seus clientes.
 > Com 200+ sistemas, isso representa **anos** de trabalho. Tempo que não temos.
 > Enquanto isso, concorrentes diretos já anunciam 'soluções com IA'. O mercado não espera."
 
+**Alternativa 4**
+
+Nossos sistemas são utilizados para tarefas complexas, como emissão de nota, consultar tributos e aprovação de contratos, os servidores públicos precisam navegar por dezenas de telas, clicar por inúmeros menos e aprender cada canto de cada sistema. Uma integração com IA facilitaria o uso dessas ferramentas. Mas possuindo um ecossistema tão vasto surge um grande problema, integrá-los do zero levaria meses de desenvolvimento, *por cada sistema*. Enquanto isso, empresas do mercado de GovTech já anunciam ‘Soluções com IA’. Isso significa que estamos perdendo “time to market” e um gigantesco diferencial competitivo.
+
 ---
 
 ### 🔹 Slide 3 — A Solução que Desenvolvemos (1:00 – 1:30)
